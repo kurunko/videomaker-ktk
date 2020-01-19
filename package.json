@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kurunko/videomaker-ktk/issues"
   },
-  "homepage": "https://github.com/kurunko/videomaker-ktk#readme"
+  "homepage": "https://github.com/kurunko/videomaker-ktk#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
