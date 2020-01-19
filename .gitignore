@@ -106,3 +106,4 @@ dist
 
 #credentials
 .credentials/
+.credentials/algorithmia.json
