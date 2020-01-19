@@ -1,0 +1,22 @@
+{
+  "name": "videomaker-ktk",
+  "version": "1.0.0",
+  "description": "Criação de Videos automatizados com projeto open source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurunko/videomaker-ktk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurunko/videomaker-ktk/issues"
+  },
+  "homepage": "https://github.com/kurunko/videomaker-ktk#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
